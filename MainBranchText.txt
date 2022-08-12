@@ -1,2 +1,3 @@
 This text is printed in main branch
 This is new text from bugFix branch
+This just new line of text
